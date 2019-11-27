@@ -9,7 +9,7 @@ NTHU Crawler is a python crawler module dedicated to crawling NTHU's school webs
 ## Requirements
 
 > Environment：Python 3.7
->
+
 > Support Database：MongoDB 4.0
 
 - pymongo
@@ -21,6 +21,7 @@ NTHU Crawler is a python crawler module dedicated to crawling NTHU's school webs
 
 * Multi-threaded architecture to perform crawler tasks.
 * Use queue as a buffer mechanism for data crawled from the crawler.
+* Compare crawled data and stop crawling.
 
 
 
