@@ -2,7 +2,7 @@
 
 NTHU Crawler is a python crawler module dedicated to crawling NTHU's school website data which is related to student affairs.
 
-[![release](https://img.shields.io/badge/release-v1.0.1-blue.svg)](https://github.com/ElemeFE/element) [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![release](https://img.shields.io/badge/release-v1.0.1-blue.svg)](https://github.com/music1353/NTHU-Crawler) [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 
 
